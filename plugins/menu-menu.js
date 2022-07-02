@@ -193,6 +193,8 @@ let str = `
 *<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝕐 𝕃𝕆𝔾𝕆𝕊/>*
 
 ° ඬ⃟🖍️ _${usedPrefix}logos *<efecto> <texto>*_
+° ඬ⃟🖍️ _${usedPrefix}logocorazon *<texto>*_
+° ඬ⃟🖍️ _${usedPrefix}logochristmas *<texto>*_
 ° ඬ⃟🖍️ _${usedPrefix}simpcard *<@tag>*_
 ° ඬ⃟🖍️ _${usedPrefix}hornycard *<@tag>*_
 ° ඬ⃟🖍️ _${usedPrefix}lolice *<@tag>*_
@@ -414,7 +416,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👽 _${usedPrefix}ttp4 *<texto>*_
 ° ඬ⃟👽 _${usedPrefix}ttp5 *<texto>*_
 ° ඬ⃟👽 _${usedPrefix}pat *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}slap *<@tag>_
+° ඬ⃟👽 _${usedPrefix}slap *<@tag>*_
 ° ඬ⃟👽 _${usedPrefix}kiss *<@tag>*_
 ° ඬ⃟👽 _${usedPrefix}dado_
 ° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
