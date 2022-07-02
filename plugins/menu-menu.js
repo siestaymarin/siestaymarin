@@ -404,6 +404,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👽 _${usedPrefix}s *<responder a imagen o video>*_
 ° ඬ⃟👽 _${usedPrefix}s *<enlace / link / url>*_
 ° ඬ⃟👽 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
+° ඬ⃟👽 _${usedPrefix}scircle *<responder a imagen>*_
 ° ඬ⃟👽 _${usedPrefix}semoji *<tipo> <emoji>*_
 ° ඬ⃟👽 _${usedPrefix}attp *<texto>*_
 ° ඬ⃟👽 _${usedPrefix}attp2 *<texto>*_
