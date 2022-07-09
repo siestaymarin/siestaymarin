@@ -90,10 +90,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE 
 - EL BOT FUNCIONA AUNQUE EL WHATSAPP NO TENGA CONEXION 
 - SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
+- The Shadow Brokers - TEAM no se hace responsable del contenido mandado por el Bot o numeros usados para el mismo, cada quien se responsabiliza de que comandos usa 
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/BrunoSobrino/) 
 
 `The Mystic - Bot __________ By Bruno Sobrino`
-
