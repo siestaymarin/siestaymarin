@@ -1,7 +1,7 @@
 # `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/34642467703" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLABORADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > NO BOT
@@ -99,3 +99,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 [![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/BrunoSobrino/) 
 
 `The Mystic - Bot __________ By Bruno Sobrino`
+
+## `COLABORADOR DEL BOT` 
+[![BrunoSobrino](https://avatars.githubusercontent.com/u/102926845?v=4size=100)](https://github.com/unptoadrih15/) 
+
+`The Mystic - Bot __________ By Adrian`
