@@ -101,4 +101,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="300" height="300" alt="BrunoSobrino"/></a>
 
-`The Mystic - Bot __________ By Bruno Sobrino`
+`The Mystic - Bot _____ By Bruno Sobrino`
