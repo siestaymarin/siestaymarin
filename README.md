@@ -99,6 +99,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/unptoadrih15"><img src="https://github.com/unptoadrih15.png" width="200" height="200" alt="unptoadrih15"/></a>
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/BrunoSobrino/) 
+<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="300" height="300" alt="BrunoSobrino"/></a>
 
 `The Mystic - Bot __________ By Bruno Sobrino`
