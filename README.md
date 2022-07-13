@@ -96,7 +96,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `COLABORADORES DEL BOT` 
-[![unptoadrih15](https://github.com/unptoadrih15.png?size=100)](https://github.com/unptoadrih15) 
 <a href="https://github.com/unptoadrih15"><img src="https://github.com/unptoadrih15.png" width="100" height="100" alt="unptoadrih15"/></a>
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
