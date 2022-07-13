@@ -95,12 +95,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 ```
 
+## `COLABORADORES DEL BOT` 
+[![TheShadowBrokers1](https://github.com/unptoadrih15.png?size=100)](https://github.com/unptoadrih15) 
+
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/BrunoSobrino/) 
 
 `The Mystic - Bot __________ By Bruno Sobrino`
-
-## `COLABORADOR DEL BOT` 
-[![BrunoSobrino](https://avatars.githubusercontent.com/u/102926845?v=4size=100)](https://github.com/unptoadrih15/) 
-
-`The Mystic - Bot __________ By Adrian`
