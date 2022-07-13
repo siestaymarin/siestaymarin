@@ -96,7 +96,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `COLABORADORES DEL BOT` 
-[![TheShadowBrokers1](https://github.com/unptoadrih15.png?size=100)](https://github.com/unptoadrih15) 
+[![unptoadrih15](https://github.com/unptoadrih15.png?size=100)](https://github.com/unptoadrih15) 
+<a href="https://github.com/unptoadrih15"><img src="https://github.com/unptoadrih15.png" width="100" height="100" alt="unptoadrih15"/></a>
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/BrunoSobrino/) 
