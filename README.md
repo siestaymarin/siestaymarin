@@ -98,4 +98,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="200" height="200" alt="BrunoSobrino"/></a>
 
-`The Mystic - Bot __ By Bruno Sobrino`
+`TheMystic-Bot-MD _ By Bruno Sobrino`
