@@ -45,4 +45,5 @@ m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰�
 console.log(e)
 }}
 handler.command = /^playlist|playlist2$/i
+handler.limit = 3
 export default handler
