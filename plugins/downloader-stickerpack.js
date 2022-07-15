@@ -11,5 +11,6 @@ conn.sendFile(m.chat, stikers, 'sticker.webp', '', m, { asSticker: true })
 //await delay(1500)
 }}
 handler.command = /^stickerly|stickerpack$/i
+handler.limit = 3
 export default handler
 //const delay = time => new Promise(res => setTimeout(res, time))
