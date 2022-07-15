@@ -10,4 +10,5 @@ ${text}
 handler.help = ['pinterest <keyword>']
 handler.tags = ['internet']
 handler.command = /^(pinterest)$/i
+handler.limit = 3
 export default handler
