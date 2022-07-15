@@ -4,4 +4,5 @@ conn.sendHydrated(m.chat, null, null, res, null, null, null, null, [['🔄 𝚂�
 handler.help = ['lolivid']
 handler.tags = ['random']
 handler.command = /^(lolivid|lolivideos|lolívid)$/i
+handler.limit = 3
 export default handler
