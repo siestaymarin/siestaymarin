@@ -128,6 +128,10 @@ throw false
 }}
 chat.antiLink2 = isEnable 
 break
+case 'autolevelup':
+isUser = true
+user.autolevelup = isEnable
+break
 case 'modohorny':
 if (m.isGroup) {
 if (!(isAdmin || isOwner)) {
