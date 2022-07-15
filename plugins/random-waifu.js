@@ -9,4 +9,5 @@ conn.sendButton(m.chat, `𝙰-𝙰𝚁𝙰 𝙰𝚁𝙰 𝚂𝙴𝙼𝙿𝙰𝙸
 handler.help = ['waifu']
 handler.tags = ['anime']
 handler.command = /^(waifu)$/i
+handler.limit = 3
 export default handler
