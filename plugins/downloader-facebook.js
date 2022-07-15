@@ -11,4 +11,5 @@ console.log(e)
 handler.help = ['facebbok'].map(v => v + ' <url>')
 handler.tags = ['downloader']
 handler.command = /^((facebook|fb)(downloder|dl)?)$/i
+handler.limit = 3
 export default handler
