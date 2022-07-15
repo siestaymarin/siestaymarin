@@ -10,4 +10,5 @@ for (const { url } of results) await conn.sendFile(m.chat, url, 'instagram.mp4',
 handler.help = ['ig'].map(v => v + ' <url>')
 handler.tags = ['downloader']
 handler.command =/^(instagram|ig(dl)?)$/i
+handler.limit = 3
 export default handler
