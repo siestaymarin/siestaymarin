@@ -36,4 +36,5 @@ conn.sendFile(m.chat, source, title + '.mp3', null, m, false, { mimetype: 'audio
 handler.help = ['mp3', 'a'].map(v => 'yt' + v + ` <url>`)
 handler.tags = ['downloader']
 handler.command = /^yt(a|mp3)$/i
+handler.limit = 3
 export default handler
