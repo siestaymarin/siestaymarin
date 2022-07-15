@@ -24,4 +24,5 @@ console.log(e)
 handler.help = ['play', 'play2'].map(v => v + ' <pencarian>')
 handler.tags = ['downloader']
 handler.command = /^play2?$/i
+handler.limit = 3
 export default handler
